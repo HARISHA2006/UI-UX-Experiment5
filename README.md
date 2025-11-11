@@ -11,7 +11,7 @@ Identifying Appropriate Research Methods Identify the most suitable research met
 Creating Personas Based on previous user data or a given user scenario. Create at least two user personas with: Demographics Goals Behaviors Pain points Motivation
 
 ## Output:
-UX Project 1: Health & Fitness App
+## UX Project 1: Health & Fitness App
 
 Problem Statements:
 
@@ -31,7 +31,7 @@ Personas:
 Rahul (28, Engineer): Wants fitness consistency; forgets to log meals.
 Sneha (34, Marketer): Seeks simple workout tracking; finds apps confusing.
 
-UX Project 2: Government Service Portal
+## UX Project 2: Government Service Portal
 
 Problem Statements:
 
