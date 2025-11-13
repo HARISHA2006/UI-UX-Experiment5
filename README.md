@@ -51,5 +51,8 @@ Personas:
 Rajesh (45, Business Owner): Needs quick online license applications; struggles with complex forms.
 Asha (60, Retired Teacher): Wants pension access; finds small text and no Hindi support frustrating.
 
+<img width="1884" height="752" alt="506070806-f2ad83d2-cb41-4b5a-bca4-0ebcdf98f22e" src="https://github.com/user-attachments/assets/c1c00cbb-f52f-4880-8b83-9fea0d59a639" />
+
+
 ## Result:
 To Present 2 different UX project scenarios is completed successfully.
